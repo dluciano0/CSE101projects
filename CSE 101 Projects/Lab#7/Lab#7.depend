@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1618415592 source:c:\users\daniel\desktop\c++\lab#7\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"array.h"
+
+1618416613 c:\users\daniel\desktop\c++\lab#7\array.h
+	<iostream>
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1618415594 source:d:\lab#7\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"array.h"
+
+1618416614 d:\lab#7\array.h
+	<iostream>
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
